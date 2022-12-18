@@ -5,7 +5,7 @@ In this project we create a simple elevator that serves three buildings, and has
 
 <img src="media/circuit_complete.png" width="800"/>
 
-* you can get hardware conponent from [here](media/components.xlsx)
+* you can get hardware conponents from [here](media/components.csv)
 * we used arduino uno.
 * and an Ultrasonic to get the position of the elevator (it is better to use encoder)
 * and servo motor to rotate the door of the elevator
