@@ -12,7 +12,7 @@ In this project we create a simple elevator that serves three buildings, and has
 
 ## software
 
-* Obviously this isn't a comprehensive guide to ROS, you will need to undestand some core concepts before building this. The Robot runs [ROS2 Humble](https://docs.ros.org/en/humble/index.html) on Ubuntu 22.04.
+* Obviously this isn't a comprehensive guide to ROS, you will need to undestand some core concepts before building this. The elevator runs [ROS2 Humble](https://docs.ros.org/en/humble/index.html) on Ubuntu 22.04.
 
 * On the elevator:
 
