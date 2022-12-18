@@ -18,6 +18,6 @@ In this project we create a simple elevator that serves three buildings, and has
 
 * In our elevator there are four nodes:
 
-<img src="media/rosgraph.png" width="800"/>
+<img src="media/rosgraph.jpg" width="800"/>
 
   - 
