@@ -41,4 +41,4 @@ you can use what you need by chang the ros parameters values
 ros2 launch simple_elevator simple_elevator_launch.py
 ```
 
-## [Watch on youtube](https://youtu.be/9bC5t68XpNU)
+## [Watch on youTube](https://youtu.be/9bC5t68XpNU)
