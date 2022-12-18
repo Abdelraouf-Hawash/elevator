@@ -1,0 +1,12 @@
+# set gaol (floor,door)
+int32 floor
+int32 door
+---
+# result reched
+int32 floor
+int32 door
+---
+# feedback (current state)
+int32 floor
+int32 door
+

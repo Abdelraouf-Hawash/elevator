@@ -1,0 +1,35 @@
+ analogWrite() and Servo::attach() conflict #459 
+ 	https://github.com/adafruit/Adafruit_nRF52_Arduino/issues/459
+ 	
+ PID simulation :
+ 	http://grauonline.de/alexwww/ardumower/pid/pid.html
+ 	
+ pid arduino code :
+ 	https://www.teachmemicro.com/arduino-pid-control-tutorial/
+ 	
+ custom_servo_control
+ 	https://create.arduino.cc/projecthub/nannigalaxy/control-servo-motor-without-library-1d8606
+ 	
+ ROS 2 Documentation :
+ 	https://docs.ros.org/en/humble/index.html
+ 	
+ Get and Set ROS2 Params with Python:
+	https://roboticsbackend.com/rclpy-params-tutorial-get-set-ros2-params-with-python/
+	
+Create a ROS2 package for Both Python and Cpp Nodes:
+	https://roboticsbackend.com/ros2-package-for-both-python-and-cpp-nodes/
+	
+ROS2 Launch File Example – How to Start All Your Nodes at Once:
+	https://roboticsbackend.com/ros2-launch-file-example/
+	
+rclpy Context.on_shutdown callbacks are not called when Ctrl-C is pressed:
+	https://github.com/ros2/rclpy/issues/532
+	
+How Can I Display a Message From a ROS2 Publisher In a KivyMD/tkinter Window? :
+	https://stackoverflow.com/questions/72974005/how-can-i-display-a-message-from-a-ros2-publisher-in-a-kivymd-window
+	
+ROS2 Actions:
+	https://design.ros2.org/articles/actions.html
+	
+anything in python:
+	https://pypi.org/project/anything/
