@@ -29,7 +29,7 @@ you can use what you need by chang the ros parameters values
 
 * [GUI](ROS2_pkg/simple_elevator/src/GUI.py) node, it is a simulation of the input panels found internal and external in elevator.
 
-* [android_interface](ROS2_pkg/simple_elevator/android_interface.py) is the intermediat between android and ros nodes (still worhing on...)
+* [android_interface](ROS2_pkg/simple_elevator/android_interface.py) nod, is the intermediat between android and ros nodes (still worhing on...)
 
 * [mobile app](android) that make user get the servic using it's mobile (still worhing on...)
 
