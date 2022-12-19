@@ -31,7 +31,7 @@ you can use what you need by change the ros parameters values
 
 * [android_interface](ROS2_pkg/simple_elevator/android_interface.py) nod, is the intermediate between android and ros nodes (still working on...)
 
-* [mobile app](android) that makes user get the service using it's mobile (still working on...)
+* [mobile app](android) that makes user get the service using its mobile (still working on...)
 
 
 ## How to use
