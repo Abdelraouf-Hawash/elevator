@@ -20,7 +20,7 @@ In this project we create a simple elevator that serves three buildings, and has
 
 <img src="media/rosgraph.jpg" width="800"/>
 
-* [HW_controller](arduino/HW_controller/HW_controller.ino): on arduino that end hardware state to HW_interface node and does what the node tells it to do through the serial. It use PID control to reach the hieght goal.
+* [HW_controller](arduino/HW_controller/HW_controller.ino): on arduino that send hardware state to HW_interface node and does what the node tells it to do through the serial. It use PID control to reach the hieght goal.
 
 * [HW_interface](ROS2_pkg/simple_elevator/src/HW_interface.py) node, is the intermediate between hardware and ros nodes
 
